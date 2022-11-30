@@ -1,0 +1,27 @@
+﻿body {
+	
+	
+}
+
+.nav-file .nav-file-title[data-path*=".pdf"] .nav-file-tag{
+    background-color: rgb(240, 167, 182);
+    color:white;
+}
+
+
+.nav-file .nav-file-title[data-path*=".png"] .nav-file-tag{
+    background-color: rgb(100, 100, 168);
+    color:white;
+}
+
+
+
+.nav-file .nav-file-title[data-path*=".jpg"] .nav-file-tag{
+    background-color: rgb(100, 168, 124);
+    color:white;
+}
+
+.nav-file .nav-file-title[data-path*=".svg"] .nav-file-tag{
+    background-color: rgb(237, 182, 131);
+    color:white;
+}
